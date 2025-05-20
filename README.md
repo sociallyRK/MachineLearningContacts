@@ -1,0 +1,1 @@
+Hello the following file contains an initial Unique Key list.  The goal of the project is to identify which of my contacts are family, friends, and acquaintances based on data from my communication platforms.
